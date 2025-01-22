@@ -132,4 +132,4 @@ dist
 
 # Secrets.js 
 
-./src/secrets.js
+src/secrets.js
